@@ -1,6 +1,6 @@
 # Dataset-of-Cognitive-Distortion-detection-and-Positive-Reconstruction
 
-This dataset including Cognitive Distortion detection(**CogDis.txt**) and Positive Reconstruction datasets(**PRtrain.json/PRtest.json**).
+This dataset including Cognitive Distortion detection[(**CogDis.txt**)](https://github.com/thu-coai/PsyQA) and Positive Reconstruction datasets(**PRtrain.json/PRtest.json**).
 
 ## Data Collection
 The corpus labeling utilizes one specialized open-source dataset, the Chinese psychological Q&A dataset [**PsyQA**](https://github.com/thu-coai/PsyQA), which is related to psychological issues and tends to contain statements with cognitive distortions.
