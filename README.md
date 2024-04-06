@@ -1,4 +1,4 @@
-# Dataset-of-Cognitive-Distortion-detection-and-Positive-Reconstruction
+# Dataset-of-Cognitive-Distortion-detection-and-Positive-Reconstruction：Chinese Dataset 
 
 This dataset including Cognitive Distortion detection[(**CogDis.txt**)](https://github.com/405200144/Dataset-of-Cognitive-Distortion-detection-and-Positive-Reconstruction/blob/main/CogDis.txt) and Positive Reconstruction datasets[(**PRtrain.json**)](https://github.com/405200144/Dataset-of-Cognitive-Distortion-detection-and-Positive-Reconstruction/blob/main/PRtrain.json)/[(**PRtest.json**)](https://github.com/405200144/Dataset-of-Cognitive-Distortion-detection-and-Positive-Reconstruction/blob/main/PRtest.json).
 
