@@ -13,3 +13,14 @@ The Positive Reconstruction rewriting task was posted on the college student soc
 
 ## Data Quality
 In addition to using a pre-test to ensure that writers clearly understand the writing task, we also conducted a 5-classification experiment, a sentiment assessment, and a manual evaluation to verify the quality of the writing. In the five-classification experiment, we split the training and test sets in a 4:1 ratio, using [RoBERTa-wwm-ext](https://github.com/ymcui/Chinese-BERT-wwm) as the pre-trained model. The Accuracy reached **82.85\%** indicating that writers can compose different positive sentences based on various strategies. Furthermore, we used [SnowNLP](https://github.com/isnowfy/snownlp) for sentiment analysis of the corpus, and the results showed a significant increase in positivity for manually written content. The average sentiment score of the original sentences was 0.715, while that of the manually written content was 0.958. In the manual evaluation, we randomly selected 10 sets of negative sentences and their corresponding positive rewrites for a five-point Likert scale rating. A total of 29 evaluation feedbacks from non-research-related personnel were received, and the results showed that the average scores for manual writing were all higher than 4, for more details please read our paper.
+
+## Citation
+```
+@inproceedings{,
+  title={Detection and Positive Reconstruction of Cognitive Distortion sentences: Mandarin Dataset and Evaluation},
+  author={Shuya Lin, Yuxiong Wang, Jonathan Dong, and Shiguang Ni},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2024},
+  pages={},
+  year={2024}
+}
+```
