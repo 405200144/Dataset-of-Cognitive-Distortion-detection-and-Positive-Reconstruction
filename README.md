@@ -19,8 +19,8 @@ In addition to using a pre-test to ensure that writers clearly understand the wr
 @inproceedings{,
   title={Detection and Positive Reconstruction of Cognitive Distortion sentences: Mandarin Dataset and Evaluation},
   author={Shuya Lin, Yuxiong Wang, Jonathan Dong, and Shiguang Ni},
-  booktitle={Findings of the Association for Computational Linguistics: ACL 2024},
-  pages={},
-  year={2024}
+  booktitle={The 62nd Annual Meeting of the Association for Computational Linguistics},
+  year={2024},
+  url={https://openreview.net/forum?id=M0yarBHqPg}
 }
 ```
