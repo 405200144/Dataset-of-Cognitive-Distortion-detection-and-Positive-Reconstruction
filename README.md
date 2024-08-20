@@ -16,11 +16,21 @@ In addition to using a pre-test to ensure that writers clearly understand the wr
 
 ## Citation
 ```
-@inproceedings{,
-  title={Detection and Positive Reconstruction of Cognitive Distortion sentences: Mandarin Dataset and Evaluation},
-  author={Shuya Lin, Yuxiong Wang, Jonathan Dong, and Shiguang Ni},
-  booktitle={The 62nd Annual Meeting of the Association for Computational Linguistics},
-  year={2024},
-  url={https://openreview.net/forum?id=M0yarBHqPg}
+@inproceedings{lin-etal-2024-detection,
+    title = "Detection and Positive Reconstruction of Cognitive Distortion Sentences: {M}andarin Dataset and Evaluation",
+    author = "Lin, Shuya  and
+      Wang, Yuxiong  and
+      Dong, Jonathan  and
+      Ni, Shiguang",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.399",
+    pages = "6686--6701",
 }
 ```
